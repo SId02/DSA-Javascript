@@ -1,2 +1,2 @@
-# jsDSA
-optional
+# DSA-Javascript
+Data Structures and Algorithms 
